@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Streamlit cache or temporary files
+.streamlit/
+
+# Data files you may want to keep local only later
+# data/raw/
+# data/processed/
